@@ -1,2 +1,3 @@
-# appdev-drake-dador
-My first GitHub repository for App Dev
+Drake Von A Dador
+IT BLK-B
+Learn Backend Development
